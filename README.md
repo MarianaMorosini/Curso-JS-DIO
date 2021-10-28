@@ -1,1 +1,1 @@
-# Curso-JS-DIO
+# Bootcamp de JavaScript da DIO
