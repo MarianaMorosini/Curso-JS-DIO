@@ -1,4 +1,4 @@
 # Javascript Assíncrono
-Projeto que carrega fotos aleatórias de gatinhos sempre que clicamos no botão.
+Projeto que carrega fotos aleatórias de gatinhos utilizando API.
 
-
+![catAPI](./api-cats.gif)
